@@ -6,7 +6,7 @@ import { useState, useEffect } from "react";
 import { Link } from "react-router";
 import { useDispatch, useSelector } from "react-redux";
 import type { RootState } from "../Store";
-import { updateConfig } from "../Store/bookingSlice";
+import { updateConfig, type BoardType } from "../Store/bookingSlice";
 import Card from "../Components/Card";
 
 const Step1Configuration = () => {
@@ -51,8 +51,8 @@ const Step1Configuration = () => {
   };
 
   const handleBoardTypeChange = (code: string) => {
-    dispatch(updateConfig({ selectedBoardType: code }));
-  };
+  dispatch(updateConfig({ selectedBoardType: code as BoardType })); 
+ };
 
   return (
     <div>
