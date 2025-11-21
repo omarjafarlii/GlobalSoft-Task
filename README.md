@@ -81,4 +81,4 @@ Layihə **Vite** və **TypeScript** ilə qurulmuşdur. Yerli mühitdə işə sal
 | Növ | Keçid (URL) |
 | :--- | :--- |
 | **GitHub Repository Link** | https://github.com/omarjafarlii/GlobalSoft-Task
-| **Live Demo URL (Vercel/Netlify)** | **[PLACEHOLDER: SİZİN CANLI DEMO URL-NİZİ BURAYA DAXİL EDİN]** |
+| **Live Demo URL (Vercel/Netlify)** | https://global-soft-booking.vercel.app/ |
