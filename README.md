@@ -1,4 +1,4 @@
-<img width="1899" height="893" alt="image" src="https://github.com/user-attachments/assets/34310fd4-3583-4f49-a9d3-72550815e0e7" /># ✈️ Hotel Booking Configuration Service: Frontend Implementation
+# ✈️ Hotel Booking Configuration Service: Frontend Implementation
 
 Bu depo, mürəkkəb **çoxmərhələli konfiqurasiya** tələblərinə cavab verən dinamik hotel bronlaşdırma sisteminin ön cəbhə (frontend) hissəsini təmsil edən **Texniki Tapşırığın** (Technical Assessment) icrasıdır.
 
