@@ -61,6 +61,7 @@ Layihə **Vite** və **TypeScript** ilə qurulmuşdur. Yerli mühitdə işə sal
 1.  **Deponu Klonlamaq:**
     ```bash
     git clone https://github.com/omarjafarlii/GlobalSoft-Task
+    cd GlobalSoft-Task
     ```
 
 2.  **Asılılıqları Quraşdırmaq:**
